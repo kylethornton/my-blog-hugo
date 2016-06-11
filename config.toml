@@ -1,0 +1,35 @@
+baseurl = "https://kylethornton.github.io/"
+languageCode = "en-us"
+title = "The Thornton Family"
+# Define how many pages appear per site
+paginate = 10
+# Enable comments powered by Disqus by entering your disqus shortname
+#disqusShortname = "spf13"
+theme = "hugo-minimalist-theme"
+
+[params]
+    site_author = "Kyle & Arica Thornton"
+    site_description = "The crazy world of Riley, Arica & Kyle."
+    location = "Earth"
+    # All paths are relative to the baseurl. Put your files
+    # somewhere in the static folder.
+    avatar = "img/profile-image.png"
+    header_background = "img/header-image.jpg"
+    header_title = "The Thornton Family"
+    copyright = "Kyle and Arica Thornton."
+
+    # Enable gogle analytics by entering your tracking code
+    google_analytics = ""
+
+[social]
+    # Add your social network accounts to the profile section on the left
+    # by entering your username. The links to your account will be
+    #  create automatically.
+    twitter   = ""
+    facebook  = ""
+    linkedin  = ""
+    behance   = ""
+    dribbble  = ""
+    instagram = ""
+    github    = ""
+    gplus     = ""
