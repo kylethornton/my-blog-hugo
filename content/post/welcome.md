@@ -6,4 +6,4 @@ title = "welcome"
 +++
 
 
-lorem ipsum testum
+lorem ipsum testum more
