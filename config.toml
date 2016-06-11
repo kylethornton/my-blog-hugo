@@ -4,7 +4,7 @@ title = "The Thornton Family"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
-#disqusShortname = "spf13"
+disqusShortname = "kyleandarica"
 theme = "hugo-minimalist-theme"
 
 [params]
