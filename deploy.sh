@@ -19,6 +19,7 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
+git subtree push --prefix=public git@github.com:kylethornton/kylethornton.githug.io
 
 # Come Back
 cd ..
