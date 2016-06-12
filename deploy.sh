@@ -23,4 +23,3 @@ git push origin master
 
 # Come Back
 cd ..
-git subtree push --prefix=public git@github.com:kylethornton/kylethornton.githug.io
