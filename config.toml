@@ -1,35 +1,25 @@
-baseurl = "https://kylethornton.github.io/"
-languageCode = "en-us"
-title = "The Thornton Family"
-# Define how many pages appear per site
-paginate = 10
-# Enable comments powered by Disqus by entering your disqus shortname
-disqusShortname = "kyleandarica"
-theme = "hugo-minimalist-theme"
+BaseUrl= "https://kyleandarica.com/"
+LanguageCode= "en-EN"
+Title= "The crazy world of Riley, Arica and Kyle"
+paginate = 5
+DisqusShortname = "kyleandarica"
+Copyright = "All rights reserved - 2016"
+canonifyurls = true
 
 [params]
-    site_author = "Kyle & Arica"
-    site_description = "The crazy world of Riley, Arica & Kyle."
-    location = ""
-    # All paths are relative to the baseurl. Put your files
-    # somewhere in the static folder.
-    avatar = "img/avatar.jpg"
-    header_background = "img/header-image.jpg"
-    header_title = "The Thornton Family"
-    copyright = "Kyle and Arica Thornton."
-
-    # Enable gogle analytics by entering your tracking code
-    google_analytics = ""
-
-[social]
-    # Add your social network accounts to the profile section on the left
-    # by entering your username. The links to your account will be
-    #  create automatically.
-    twitter   = ""
-    facebook  = ""
-    linkedin  = ""
-    behance   = ""
-    dribbble  = ""
-    instagram = ""
-    github    = ""
-    gplus     = ""
+  description = ""
+  cover = "img/header-image.jpg"
+  author = "Kyle & Arica"
+  authorlocation = "Maryland"
+  authorwebsite = ""
+  bio= ""
+  logo = ""
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = ""
+  githubName = ""
+  twitterName = ""
+  # facebookName = ""
+  # linkedinName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = true
