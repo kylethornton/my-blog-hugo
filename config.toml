@@ -8,12 +8,12 @@ disqusShortname = "kyleandarica"
 theme = "hugo-minimalist-theme"
 
 [params]
-    site_author = "Kyle & Arica Thornton"
+    site_author = "Kyle & Arica"
     site_description = "The crazy world of Riley, Arica & Kyle."
-    location = "Earth"
+    location = ""
     # All paths are relative to the baseurl. Put your files
     # somewhere in the static folder.
-    avatar = "img/profile-image.png"
+    avatar = "img/avatar.jpg"
     header_background = "img/header-image.jpg"
     header_title = "The Thornton Family"
     copyright = "Kyle and Arica Thornton."
