@@ -2,6 +2,8 @@
 date = "2015-01-12T21:34:20-04:00"
 tags = []
 title = "Riley's doing well!"
+author="Kyle"
+slug="rileys-doing-well"
 
 +++
 

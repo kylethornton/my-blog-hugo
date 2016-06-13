@@ -10,7 +10,7 @@ theme = "casper"
 [params]
   description = ""
   cover = "img/header-image.jpg"
-  author = "Kyle & Arica"
+  author = ""
   #authorlocation = "Maryland"
   authorwebsite = ""
   share = false
