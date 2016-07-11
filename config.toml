@@ -25,3 +25,21 @@ theme = "casper"
   # linkedinName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = true
+
+[[menu.main]]
+  name = "Safe Foods"
+  weight = -120
+  identifier = "safe-foods"
+  url = "/info/safe-foods"
+
+[[menu.main]]
+  name = "Blog"
+  weight = -110
+  identifier = "blog"
+  url = "/"
+
+[[menu.main]]
+  name = "Photos"
+  weight = -100
+  identifier = "photos"
+  url = "http://photos.kyleandarica.com"
