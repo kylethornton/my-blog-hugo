@@ -8,6 +8,7 @@ menu = ""
 share = false
 slug = "belated-christmas-baby"
 title = "Belated Christmas Baby"
+tags = []
 
 +++
 

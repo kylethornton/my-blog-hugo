@@ -7,7 +7,7 @@ image = ""
 menu = ""
 slug = "good-morning-daddy"
 title = "Good Morning Daddy"
-
+tags = []
 +++
 Riley doing some belly time.
 <!--more-->

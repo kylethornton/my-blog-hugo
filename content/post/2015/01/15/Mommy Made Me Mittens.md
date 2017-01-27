@@ -8,7 +8,7 @@ menu = ""
 share = false
 slug = "mommy-made-me-mittens"
 title = "Mommy Made Me Mittens"
-
+tags = []
 +++
 
 Arica finished Riley's mittens and she appears to be enjoying them.

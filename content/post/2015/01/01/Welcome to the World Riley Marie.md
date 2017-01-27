@@ -1,6 +1,7 @@
 +++
 date = "2015-01-01T21:57:32-04:00"
 draft = false
+tags = []
 title = "Welcome to the World Riley Marie"
 slug = "welcome-riley-marie"
 +++
