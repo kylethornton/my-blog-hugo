@@ -3,7 +3,7 @@ menu="Safe Foods for Riley"
 slug="safe-foods"
 tags = []
 +++
-# "Safe" Foods test
+# "Safe" Foods
 Many foods are processed in a plant that also processes nuts or tree nuts. While the chance of cross contamination is usually low, when talking about our Daughter's life we prefer not to take chances. Below is a list of products/foods we have determined to be safe. We may contact the manufacturer directly to confirm if their labeling is not clear.
 
 ## Our List of Foods Determined to be Safe test
