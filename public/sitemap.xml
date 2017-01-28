@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kyleandarica.com/</loc>
+    <lastmod>2016-10-29T21:19:42-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kyleandarica.com/post/2015/10/31/riley-takes-mom-and-dad-pumpkin-picking/</loc>
     <lastmod>2016-10-29T21:19:42-04:00</lastmod>
   </url>
@@ -208,23 +213,6 @@
   
   <url>
     <loc>http://kyleandarica.com/info/safe-foods/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kyleandarica.com/info/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kyleandarica.com/post/</loc>
-    <lastmod>2016-10-29T21:19:42-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kyleandarica.com/</loc>
-    <lastmod>2016-10-29T21:19:42-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
