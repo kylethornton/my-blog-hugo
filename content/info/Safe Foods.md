@@ -5,7 +5,7 @@ tags = []
 +++
 
 # Safe Food Brands
-It is unsafe for Riley to eat foods containing peanuts or tree nuts, as well as foods processed in facilities with peanuts and/or tree nuts. The FDA does not require companies to label products that are processed in facilities with allergens. The law only requires brands to label if the product contains one of the top 8 allergens. 
+It is unsafe for Riley to eat foods containing peanuts or tree nuts, as well as foods processed in facilities with peanuts and/or tree nuts. The FDA does not require companies to label products that are processed in facilities with allergens. The law only requires brands to label if the product contains one of the top 8 allergens.
 
 Below is a list of brands who do include production process information on their labels or we have confirmed are safe. Some brands only include processing information for products with the chance of cross-contact. The best brands include information about products that contain allergens, are produced in facilities with allergens, <b>and</b> those produced free from allergens. Please support these brands!
 
@@ -47,7 +47,7 @@ Frito-Lay brands labels products that are produced in facilities with peanuts an
 
 <a name="hodgson-mill"></a>
 ### Hodgson Mill
-Hodgson Mill labels production processes under their ingredients list. Most products are produced in facilities free from peanuts and tree nuts. 
+Hodgson Mill labels production processes under their ingredients list. Most products are produced in facilities free from peanuts and tree nuts.
 
 Currently, these products are NOT safe:
 - Almond Flour/Meal
@@ -104,10 +104,10 @@ Stacy's pitas are produced free from peanuts and tree nuts. They do not label th
 Turkey Hill __Vanilla Ice Cream__ is safe. They sanitzie all their production lines after production but more importantly vanilla ice cream is the first product in a production cycle, before any ice cream with add-ins is made.
 
 <a name="vermont-bread"></a>
-### Vermont Bread Company 
+### Vermont Bread Company
 Vermont Bread labels products that are produced in facilities with the top 8 allergens. They do not label if the product is safe from these allergens.
 
 <a name="vermont-creamery"></a>
 ### Vermont Creamery
-All Vermont Creamery are produced free from eggs, peanuts, tree nuts, fish, shellfish, soy, wheat and gluten. 
+All Vermont Creamery are produced free from eggs, peanuts, tree nuts, fish, shellfish, soy, wheat and gluten.
 
