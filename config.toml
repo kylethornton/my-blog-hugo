@@ -27,7 +27,7 @@ theme = "casper"
   hideHUGOSupport = true
 
 [[menu.main]]
-  name = "Safe Foods"
+  name = "Safe Food Brands"
   weight = -120
   identifier = "safe-foods"
   url = "/info/safe-foods"
