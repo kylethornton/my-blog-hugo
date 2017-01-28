@@ -1,7 +1,4 @@
 
-[submodule "public"]
-	path = public
-	url = git@github.com:kylethornton/kylethornton.github.io.git
 [submodule "themes/casper"]
 	path = themes/casper
 	url = https://github.com/vjeantet/hugo-theme-casper.git
