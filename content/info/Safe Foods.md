@@ -1,7 +1,7 @@
 +++
 menu="Safe Foods for Riley"
 slug="safe-foods"
-tags = []
+tags = ["food"]
 +++
 
 # Safe Food Brands
